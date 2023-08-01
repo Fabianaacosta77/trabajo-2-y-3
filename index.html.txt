@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>mi segunda pagina web</title>
+</head>
+<body>
+ <h3>tercer titulo</h3>
+ <h1>mi primer pagina web</h1>   
+ <h2>segundo titulo</h2>
+ 
+ <p>aqui se escribe un parrafo</p>
+</body>
+</html>

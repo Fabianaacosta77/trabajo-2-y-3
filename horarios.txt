@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=l, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="1">
+        <h1>horarios de atencion</h1>
+        <tr>
+        <td>lunes a viernes</td>
+        </tr>
+       
+        <tr>
+            <td rowspan="2">8 a 18hs</td>
+        </tr>
+                <tr>
+            <br>
+            <table border="1">
+                <tr>
+                    <td colspan="3">sabado y domingo</td>
+                </tr>
+                <tr>
+                <td>cerrado</td>
+                </tr>
+            </table>
+        </tr>  
+</body>
+</html>
